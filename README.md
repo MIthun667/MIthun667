@@ -8,13 +8,13 @@ and societal challenges, while committed to continuous learning and innovation.
 
  -- Bangladesh University of Business & Technology
  
-    B.Sc in Computer Science                                                                                                        -(July 2019 – Sept 2023)
+    B.Sc in Computer Science                                                                                -(July 2019 – Sept 2023)
    
 ## Exerience
 
  -- Research Assistant 
  
-    BUBT Research and Innovation Center (BRIC), Bangladesh University of Business and Technology (BUBT)                             -(Jan 2025 – Present)
+    BUBT Research and Innovation Center (BRIC), Bangladesh University of Business and Technology (BUBT)      -(Jan 2025 – Present)
 
     ◦ Conducted research in Natural Language Processing (NLP), Computer Vision, Multimodal AI, and Large Language Models (LLM).
     ◦ Developed innovative AI models and solutions for academic and practical applications.
@@ -22,7 +22,7 @@ and societal challenges, while committed to continuous learning and innovation.
     
 -- Research Assistant (Remote)
 
-  Advanced Machine Intelligence Research Lab                                                                                        -(Jun 2024 – Present)
+    Advanced Machine Intelligence Research Lab                                                                 -(Jun 2024 – Present)
   
     ◦ Conducted research in Natural Language Processing (NLP), Computer Vision, Multimodal AI.
     ◦ Developed innovative AI models and solutions for academic and practical applications.
